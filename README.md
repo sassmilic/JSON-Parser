@@ -6,5 +6,6 @@ The motivation for this script came when I was dealing with a large JSON file (a
 ### TODO
 * completely refactor to use a stack
 * related to above: read one character from file at a time; no loading entire file to memory
+* migrate tests from docstrings to seperate file
 
 Note: No, this doesn't have anything to do with Chainlink.
