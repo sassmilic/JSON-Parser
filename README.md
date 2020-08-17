@@ -9,5 +9,3 @@ The motivation for this script came when I was dealing with a large JSON file (a
 * completely refactor to use a stack
 * related to above: read one character from file at a time; no loading entire file to memory
 * migrate tests from docstrings to seperate file
-
-Another note: No, this doesn't have anything to do with Chainlink.
