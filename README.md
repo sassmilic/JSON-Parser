@@ -5,7 +5,7 @@ The motivation for this script came when I was dealing with a large JSON file (a
 
 **NOTE:** Very minimal testing has been done (see doctests). Use with caution :)
 
-<breadcrumb/>
+\<breadcrumb/\>
 
 ### TODO
 * completely refactor to use a stack
