@@ -5,6 +5,8 @@ The motivation for this script came when I was dealing with a large JSON file (a
 
 **NOTE:** Very minimal testing has been done (see doctests). Use with caution :)
 
+<breadcrumb/>
+
 ### TODO
 * completely refactor to use a stack
 * related to above: read one character from file at a time; no loading entire file to memory
